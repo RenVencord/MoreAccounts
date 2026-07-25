@@ -3,7 +3,7 @@
 This plugin removes the five accounts signed in at once cap, allowing you to sign into as many accounts as you'd like!
 
 ## Known Issues
-- Only the first five accounts persist
+- Only the first five accounts persist through restarts
 - Max of ten accounts
 
 ## Installation
