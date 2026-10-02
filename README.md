@@ -2,9 +2,8 @@
 
 This plugin removes the five accounts signed in at once cap, allowing you to sign into as many accounts as you'd like!
 
-## Known Issues
-- Only the first five accounts persist
-- Max of ten accounts
+## Limits
+- The limit is ten accounts (`MAX_ACCOUNTS` in `index.tsx`).
 
 ## Installation
 1. [Build Vencord from source](https://docs.vencord.dev/installing/) if you haven't already.
